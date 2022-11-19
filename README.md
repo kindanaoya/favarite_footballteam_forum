@@ -1,4 +1,4 @@
-# <favorite football team forum>
+# favorite football team forum
 
 ## サイト概要
 - TOPページがカレンダーになっており、ユーザーはそこに記載してある対戦カードを見て興味のあるものをクリックするとその対戦カードの掲示板へと行くことができる。
